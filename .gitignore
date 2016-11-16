@@ -8,7 +8,31 @@
 
 ##== Chatinator .gitignore List (2016-11-15) ==================================#
 
-#
+## Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+## Flask stuff
+instance/
+.webassets-cache
+
+## virtualenv
+.venv/
+venv/
+ENV/
 
 ##== SuitAndCape .gitignore Defaults ==========================================#
 
@@ -48,7 +72,7 @@ config.codekit
 .mtj.tmp/
 hs_err_pid*
 
-## Linux, OS X, and Windows
+## Linux, Mac, and Windows
 $RECYCLE.BIN/
 *.DS_Store*
 *.cab

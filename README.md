@@ -3,18 +3,21 @@
 Chatinator
 ================================================================================
 
-Intro
+Very first attempt at a chatbot.
 
 ## Contents
 
-- [Section](#section)
+- [Notes](#notes)
 - [Team](#team)
 - [License](#license)
 - [Connect](#connect)
 
-## Section
+## Notes
 
-Stuff
+1. Check and see if the [server is running](https://murmuring-beyond-22638.herokuapp.com/) before attempting to use the chatbot
+2. Sign-in to [Facebook](https://www.facebook.com/)
+3. Go to the [Chatitron page](https://www.facebook.com/Chatitron-1403635036313204) on Facebook
+4. Click the Message button and start chatting
 
 --------------------------------------------------------------------------------
 
